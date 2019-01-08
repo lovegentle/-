@@ -1,0 +1,65 @@
+/* pages/jianding/jianding.wxss */
+page {
+  background-color:white;
+  height: 100%;
+  font-size: 32rpx;
+  line-height: 1.6;
+  }
+.page-head{
+  padding: 60rpx 50rpx 80rpx;
+  text-align: center;
+}
+.i-header1{
+  height: 350rpx;
+   text-align: center;
+}
+.i-header-h1{
+  color:#fff;
+  font-size: 40rpx;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.h50{
+  padding-top: 50px;
+}
+.weui-grid {
+  position: relative;
+  float: left;
+  padding: 20px 10px;
+  width:50%;
+  box-sizing: border-box;
+  border-right: 1rpx solid #D9D9D9;
+  border-bottom: 1rpx solid #D9D9D9;
+}
+.weui-grid__icon {
+  display: block;
+  width: 28px;
+  height: 28px;
+  margin: 0 auto;
+}
+.weui-grid__label {
+  margin-top: 5px;
+  display: block;
+  text-align: center;
+  color: #000000;
+  font-size: 14px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.weui-grid_active {
+  background-color: #ECECEC;
+}
+.swiper {
+ height: 350rpx;
+ width: 100%;
+}
+.swiper image {
+ height: 100%;
+ width: 100%;
+}
+.slide-image{
+   height: 100%;
+  width: 100%;
+}
+

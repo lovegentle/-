@@ -1,0 +1,90 @@
+.i-header1{
+  height: 350rpx;
+   background-color: #3891f8;   
+   text-align: center;
+}
+.kd{
+  height: 200rpx;
+  width: 200rpx;
+  position: left;
+}
+.i-header-h1{
+  color:#fff;
+  font-size: 40rpx;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.h50{
+  padding-top: 0px;
+}
+.i-header-h2{
+  color:#fff;
+  font-size: 30rpx;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.toWrite {
+width:100rpx;
+height:100rpx;
+display: block;
+/*background:url("/image/add.png") no-repeat;*/
+padding:0;
+background-size:cover;
+position:fixed;
+right:74rpx;
+bottom:100rpx;
+border-bottom:0;
+border-top:0;
+}
+.section {
+    width: 100%;
+    padding: 0 10px;
+}
+.discover-image {
+    display: flex;
+    margin-bottom: 10px;
+}
+.discover-image-two {
+    display: flex;
+    justify-content: space-between;
+}
+/* pages/cuicui/cuicui.wxss */
+.list{
+  margin-left: 20rpx;
+  width: 120rpx;
+  height: 120rpx;
+}
+.list2{
+  width: 120rpx;
+  height: 120rpx;
+}
+.view1{
+  width: 750rpx;
+  height: 140rpx;
+  margin-left: 0rpx;
+  margin-top: 20rpx;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 8px solid;
+  border-bottom-color:rgb(245, 247, 247);
+}
+
+.view1-1{
+  margin-left: 20rpx;
+  width: 463rpx;
+  height: 100rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.list-text{
+  font-weight: 450;
+  font-size: 20px;
+}
+.list-text1{
+  margin-left: 5rpx;
+  margin-top:20rpx;
+  font-weight: normal;
+  font-size: 10px;
+  color: gray;
+}

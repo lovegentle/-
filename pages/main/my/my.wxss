@@ -1,0 +1,52 @@
+.section {
+    width: 100%;
+    padding: 0 10px;
+}
+.discover-image {
+    display: flex;
+    margin-bottom: 10px;
+}
+.discover-image-two {
+    display: flex;
+    justify-content: space-between;
+}
+/* pages/cuicui/cuicui.wxss */
+.list{
+  margin-left: 20rpx;
+  width: 120rpx;
+  height: 120rpx;
+}
+.list2{
+  width: 120rpx;
+  height: 120rpx;
+}
+.view1{
+  width: 750rpx;
+  height: 140rpx;
+  margin-left: 0rpx;
+  margin-top: 20rpx;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 8px solid;
+  border-bottom-color:rgb(245, 247, 247);
+}
+
+.view1-1{
+  margin-left: 20rpx;
+  width: 463rpx;
+  height: 100rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.list-text{
+  font-weight: 300;
+  font-size: 15px;
+}
+.list-text1{
+  margin-left: 5rpx;
+  margin-top:20rpx;
+  font-weight: normal;
+  font-size: 10px;
+  color: gray;
+}

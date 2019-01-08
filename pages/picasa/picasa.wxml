@@ -1,0 +1,72 @@
+<view class="page">
+
+  <view class="page__hd i-header1">
+    <image class="kd" src='/images/kd.jpg'></image>
+    <view class="i-header-h1 h50">新华鉴定师：杜小帅</view>
+    <view class="i-header-h2">日平均121 | 排队100 |今日50 |完成率30%</view>
+  </view>
+  <navigator url='../hello/hello'>
+  <button>求鉴定</button>
+  </navigator>
+  <view>
+<view class='view1'>
+<image class='list' src="/images/M2k.jpg"></image>
+<view class='view1-1'>
+<text class='list-text'>Nike M2k</text>
+<text class='list-text1' decode="{{true}}">用户：520 &nbsp;&nbsp;日期：2018/11/19</text>
+</view >
+<view class='view2'>
+<image class='list2' src="/images/水印假.png"></image>
+</view>
+</view>
+</view><view>
+<view class='view1'>
+<image class='list' src="/images/list2.jpg"></image>
+<view class='view1-1'>
+<text class='list-text'>Air Jordan 3 飓风</text>
+<text class='list-text1' decode="{{true}}">用户：520 &nbsp;&nbsp;日期：2018/11/19</text>
+</view >
+<view class='view2'>
+<image class='list2' src="/images/水印真.png"></image>
+</view>
+</view>
+</view>
+<view>
+<view class='view1'>
+<image class='list' src="/images/list3.jpg"></image>
+<view class='view1-1'>
+<text class='list-text'>Air Jordan 6 Retro</text>
+<text class='list-text1' decode="{{true}}">用户：520 &nbsp;&nbsp;日期：2018/11/19</text>
+</view >
+<view class='view2'>
+<image class='list2' src="/images/水印真.png"></image>
+</view>
+</view>
+</view>
+<view>
+<view class='view1'>
+<image class='list' src="/images/list6.jpg"></image>
+<view class='view1-1'>
+<text class='list-text'>Air Jordan 1 黑灰</text>
+<text class='list-text1' decode="{{true}}">用户：520 &nbsp;&nbsp;日期：2018/11/19</text>
+</view >
+<view class='view2'>
+<image class='list2' src="/images/水印假.png"></image>
+</view>
+</view>
+</view>
+<view>
+<view class='view1'>
+<image class='list' src="/images/list5.jpg"></image>
+<view class='view1-1'>
+<text class='list-text'>Air Jordan 12 黑红</text>
+<text class='list-text1' decode="{{true}}">用户：520 &nbsp;&nbsp;日期：2018/11/19</text>
+</view >
+<view class='view2'>
+<image class='list2' src="/images/水印真.png"></image>
+</view>
+</view>
+</view>
+
+      
+  </view>

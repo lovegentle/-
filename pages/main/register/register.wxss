@@ -1,0 +1,4 @@
+.image-1{
+  height: 350rpx;
+  width: 100%;
+}

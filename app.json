@@ -1,0 +1,50 @@
+{
+  "pages":[
+    "pages/start/start",
+    "pages/jianding/jianding",
+    "pages/main/main",
+    "pages/user/user",
+    "pages/main/login/login",
+    "pages/main/register/register",
+    "pages/main/feedback/feedback",
+    "pages/main/release/release",
+    "pages/main/my/my",
+    "pages/sendSms/sendSms",
+    "pages/picasa/picasa",
+    "pages/hello/hello",
+    "pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#3891f8",
+    "navigationBarTitleText": "鉴定系统",
+    "navigationBarTextStyle":"#fff"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#318efb",
+    "borderStyle": "#3891f8",
+    "backgroundColor": "#ffffff",
+    "list": [
+    
+      {
+        "pagePath": "pages/jianding/jianding",
+        "iconPath": "images/list.png",
+        "selectedIconPath": "images/list1.png",
+        "text": "鉴定主页"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "images/icon_component.png",
+        "selectedIconPath": "images/icon_component_HL.png",
+        "text": "鉴定列表"
+      },
+      {
+        "pagePath": "pages/main/main",
+        "iconPath": "images/wechat.png",
+        "selectedIconPath": "images/wechatHL.png",
+        "text": "我"
+      }
+    ]
+  }
+}

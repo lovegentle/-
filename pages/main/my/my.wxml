@@ -1,0 +1,9 @@
+<view>
+<view class='view1'>
+<image class='list' src="/images/list4.jpg"></image>
+<view class='view1-1'>
+<text class='list-text'>Adidas Yeezy boost 700</text>
+<text class='list-text1' decode="{{true}}">鉴定师：杜兰特 &nbsp;&nbsp;日期：2018/11/19</text>
+</view >
+</view>
+</view>
